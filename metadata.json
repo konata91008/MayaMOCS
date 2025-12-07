@@ -1,0 +1,5 @@
+{
+  "name": "Maya｜摩斯轉譯",
+  "description": "A web application that converts text to Chinese Telegraph Code and Morse Code using the Gemini API. It also allows for decoding Telegraph and Morse codes back to text.",
+  "requestFramePermissions": []
+}
